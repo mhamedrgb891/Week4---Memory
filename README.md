@@ -1,6 +1,6 @@
 # Week 4 – Memory and Pointers
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week dove into memory management in C. We explored pointers, dynamic memory allocation, and how to manipulate memory safely and efficiently.
